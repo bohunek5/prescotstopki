@@ -11,7 +11,10 @@
     "copy": "Premiera nowego modelu taśmy LED z serii DELUX.",
     "photo": "delux.webp",
     "fact": "7 lat gwarancji · seria DELUX",
-    "expo": true
+    "expo": true,
+    "bannerWidth": 450,
+    "bannerHeight": 164,
+    "signatureHeight": 336
   },
   {
     "id": "02",
@@ -25,7 +28,10 @@
     "copy": "Polska produkcja taśm LED. Zobacz premierę na naszym stoisku.",
     "photo": "delux.webp",
     "fact": "7 lat gwarancji · seria DELUX",
-    "expo": true
+    "expo": true,
+    "bannerWidth": 450,
+    "bannerHeight": 164,
+    "signatureHeight": 336
   },
   {
     "id": "03",
@@ -39,7 +45,10 @@
     "copy": "Nowość z serii DELUX. Zapraszamy na premierę.",
     "photo": "delux.webp",
     "fact": "PRODUKCJA W POLSCE · 7 LAT GWARANCJI",
-    "expo": true
+    "expo": true,
+    "bannerWidth": 450,
+    "bannerHeight": 164,
+    "signatureHeight": 336
   },
   {
     "id": "04",
@@ -53,7 +62,10 @@
     "copy": "DELUX i Scharfer. Poznaj produkty oraz nowość z serii DELUX.",
     "photo": "delux.webp",
     "fact": "DELUX 7 lat · SCHARFER 7 lat gwarancji",
-    "expo": true
+    "expo": true,
+    "bannerWidth": 450,
+    "bannerHeight": 164,
+    "signatureHeight": 336
   },
   {
     "id": "05",
@@ -67,7 +79,10 @@
     "copy": "Taśmy LED, COB, zasilanie i premiera nowego modelu DELUX.",
     "photo": "delux.webp",
     "fact": "Międzynarodowe Targi Oświetlenia",
-    "expo": true
+    "expo": true,
+    "bannerWidth": 450,
+    "bannerHeight": 164,
+    "signatureHeight": 364.75
   },
   {
     "id": "06",
@@ -81,7 +96,10 @@
     "copy": "Seria DELUX. Własna produkcja i kontrola światła.",
     "photo": "delux.webp",
     "fact": "7 lat gwarancji · seria DELUX",
-    "expo": false
+    "expo": false,
+    "bannerWidth": 450,
+    "bannerHeight": 144,
+    "signatureHeight": 316
   },
   {
     "id": "07",
@@ -95,7 +113,10 @@
     "copy": "Taśmy LED z naszej produkcji w Polsce.",
     "photo": "detail.webp",
     "fact": "DELUX · 7 lat gwarancji",
-    "expo": false
+    "expo": false,
+    "bannerWidth": 450,
+    "bannerHeight": 144,
+    "signatureHeight": 316
   },
   {
     "id": "08",
@@ -109,7 +130,10 @@
     "copy": "Polska produkcja taśm LED.",
     "photo": "delux.webp",
     "fact": "7 lat gwarancji na taśmy DELUX",
-    "expo": false
+    "expo": false,
+    "bannerWidth": 450,
+    "bannerHeight": 144,
+    "signatureHeight": 316
   },
   {
     "id": "09",
@@ -123,7 +147,10 @@
     "copy": "Taśmy LED do projektów, w których liczy się oddawanie barw.",
     "photo": "cri.webp",
     "fact": "Seria DELUX · 7 lat gwarancji",
-    "expo": false
+    "expo": false,
+    "bannerWidth": 450,
+    "bannerHeight": 144,
+    "signatureHeight": 344.75
   },
   {
     "id": "10",
@@ -137,7 +164,10 @@
     "copy": "Od montażu komponentów do kontroli gotowej taśmy.",
     "photo": "delux.webp",
     "fact": "Polska produkcja · 7 lat gwarancji",
-    "expo": false
+    "expo": false,
+    "bannerWidth": 450,
+    "bannerHeight": 144,
+    "signatureHeight": 316
   },
   {
     "id": "11",
@@ -151,7 +181,10 @@
     "copy": "Taśmy LED DELUX i zasilacze Scharfer.",
     "photo": "delux.webp",
     "fact": "7 lat DELUX + 7 lat SCHARFER",
-    "expo": false
+    "expo": false,
+    "bannerWidth": 450,
+    "bannerHeight": 144,
+    "signatureHeight": 316
   },
   {
     "id": "12",
@@ -165,7 +198,10 @@
     "copy": "DELUX + Scharfer",
     "photo": "delux.webp",
     "fact": "7 lat na taśmę DELUX · 7 lat na zasilacz Scharfer",
-    "expo": false
+    "expo": false,
+    "bannerWidth": 450,
+    "bannerHeight": 144,
+    "signatureHeight": 316
   },
   {
     "id": "13",
@@ -179,7 +215,10 @@
     "copy": "Dopasuj taśmę LED i zasilacz do projektu.",
     "photo": "delux.webp",
     "fact": "7 lat DELUX + 7 lat SCHARFER",
-    "expo": false
+    "expo": false,
+    "bannerWidth": 450,
+    "bannerHeight": 144,
+    "signatureHeight": 316
   },
   {
     "id": "14",
@@ -193,7 +232,10 @@
     "copy": "Taśma DELUX i zasilacz Scharfer — po 7 lat gwarancji.",
     "photo": "delux.webp",
     "fact": "Poznaj taśmy i zasilacze",
-    "expo": false
+    "expo": false,
+    "bannerWidth": 450,
+    "bannerHeight": 144,
+    "signatureHeight": 344.75
   },
   {
     "id": "15",
@@ -207,7 +249,10 @@
     "copy": "Zasilacze Scharfer i taśmy LED DELUX.",
     "photo": "scharfer.webp",
     "fact": "Scharfer 7 lat · DELUX 7 lat gwarancji",
-    "expo": false
+    "expo": false,
+    "bannerWidth": 450,
+    "bannerHeight": 144,
+    "signatureHeight": 316
   },
   {
     "id": "16",
@@ -221,7 +266,10 @@
     "copy": "Poznaj taśmy COB do oświetlenia liniowego.",
     "photo": "cob.jpg",
     "fact": "COB · dobierz wariant do projektu",
-    "expo": false
+    "expo": false,
+    "bannerWidth": 450,
+    "bannerHeight": 144,
+    "signatureHeight": 316
   },
   {
     "id": "17",
@@ -235,7 +283,10 @@
     "copy": "Cyfrowe taśmy COB i zgodne sterowanie.",
     "photo": "cob-rgb.webp",
     "fact": "COB DIGITAL · efekty i kolor",
-    "expo": false
+    "expo": false,
+    "bannerWidth": 450,
+    "bannerHeight": 144,
+    "signatureHeight": 316
   },
   {
     "id": "18",
@@ -249,7 +300,10 @@
     "copy": "Poznaj serię WCOB w ofercie PRESCOT LED.",
     "photo": "wcob.webp",
     "fact": "WCOB · SMD · COB · CCT · RGBW",
-    "expo": false
+    "expo": false,
+    "bannerWidth": 450,
+    "bannerHeight": 144,
+    "signatureHeight": 316
   },
   {
     "id": "19",
@@ -263,7 +317,10 @@
     "copy": "Różne warianty. Jeden kierunek: Twoje światło.",
     "photo": "cob.jpg",
     "fact": "Biel · CCT · RGB · Digital",
-    "expo": false
+    "expo": false,
+    "bannerWidth": 450,
+    "bannerHeight": 144,
+    "signatureHeight": 344.75
   },
   {
     "id": "20",
@@ -277,7 +334,10 @@
     "copy": "Barwa, napięcie i moc — wybierz właściwy model.",
     "photo": "cob.jpg",
     "fact": "Pełna oferta taśm LED na prescot.pl",
-    "expo": false
+    "expo": false,
+    "bannerWidth": 450,
+    "bannerHeight": 144,
+    "signatureHeight": 316
   },
   {
     "id": "21",
@@ -291,7 +351,10 @@
     "copy": "Własna produkcja, laboratorium i dobór komponentów.",
     "photo": "delux.webp",
     "fact": "Produkcja · laboratorium · dystrybucja",
-    "expo": false
+    "expo": false,
+    "bannerWidth": 450,
+    "bannerHeight": 144,
+    "signatureHeight": 344.75
   },
   {
     "id": "22",
@@ -305,7 +368,10 @@
     "copy": "Pomiary barwy, strumienia i oddawania kolorów.",
     "photo": "lab.jpg",
     "fact": "Taśmy LED · pomiary · kontrola jakości",
-    "expo": false
+    "expo": false,
+    "bannerWidth": 450,
+    "bannerHeight": 144,
+    "signatureHeight": 316
   },
   {
     "id": "23",
@@ -319,7 +385,10 @@
     "copy": "Własne zaplecze produkcyjne PRESCOT LED.",
     "photo": "production.webp",
     "fact": "Produkcja · kontrola · gotowa taśma",
-    "expo": false
+    "expo": false,
+    "bannerWidth": 450,
+    "bannerHeight": 144,
+    "signatureHeight": 316
   },
   {
     "id": "24",
@@ -333,7 +402,10 @@
     "copy": "Produkcja i własne laboratorium w jednym miejscu.",
     "photo": "lab.jpg",
     "fact": "PRESCOT LED · Giżycko",
-    "expo": false
+    "expo": false,
+    "bannerWidth": 450,
+    "bannerHeight": 144,
+    "signatureHeight": 316
   },
   {
     "id": "25",
@@ -347,7 +419,10 @@
     "copy": "Produkujemy taśmy LED i pomagamy dobrać cały system.",
     "photo": "delux.webp",
     "fact": "Własna produkcja · własne laboratorium",
-    "expo": false
+    "expo": false,
+    "bannerWidth": 450,
+    "bannerHeight": 144,
+    "signatureHeight": 316
   },
   {
     "id": "26",
@@ -361,7 +436,10 @@
     "copy": "Taśmy LED, profile, zasilanie, sterowanie i akcesoria.",
     "photo": "delux.webp",
     "fact": "SMD · COB · WCOB · CCT · RGBW",
-    "expo": false
+    "expo": false,
+    "bannerWidth": 450,
+    "bannerHeight": 144,
+    "signatureHeight": 316
   },
   {
     "id": "27",
@@ -375,7 +453,10 @@
     "copy": "DELUX, PREMIUM i COB — znajdź odpowiednią serię.",
     "photo": "cri.webp",
     "fact": "Pełna oferta taśm LED",
-    "expo": false
+    "expo": false,
+    "bannerWidth": 450,
+    "bannerHeight": 144,
+    "signatureHeight": 316
   },
   {
     "id": "28",
@@ -389,7 +470,10 @@
     "copy": "Taśmy, profile, zasilacze, sterowniki i połączenia.",
     "photo": "delux.webp",
     "fact": "Produkcja taśm LED · dystrybucja komponentów",
-    "expo": false
+    "expo": false,
+    "bannerWidth": 450,
+    "bannerHeight": 144,
+    "signatureHeight": 344.75
   },
   {
     "id": "29",
@@ -403,7 +487,10 @@
     "copy": "Parametry, dokumentacja i produkty w jednym katalogu.",
     "photo": "detail.webp",
     "fact": "DELUX · PREMIUM · COB",
-    "expo": false
+    "expo": false,
+    "bannerWidth": 450,
+    "bannerHeight": 144,
+    "signatureHeight": 316
   },
   {
     "id": "30",
@@ -417,6 +504,9 @@
     "copy": "Pomagamy połączyć taśmy LED z właściwymi komponentami.",
     "photo": "delux.webp",
     "fact": "Taśmy LED · COB · zasilacze · sterowanie",
-    "expo": false
+    "expo": false,
+    "bannerWidth": 450,
+    "bannerHeight": 144,
+    "signatureHeight": 316
   }
 ]
