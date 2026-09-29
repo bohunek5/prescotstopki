@@ -1,7 +1,12 @@
-# Stopka V2 — Karol Bohdanowicz
+# Stopki V2 — Karol Bohdanowicz
 
 [Podgląd i kopiowanie](https://bohunek5.github.io/prescotstopki/Stopki-E-mail/V2/)
 
-Baner 600 × 120 px: większe stoisko pośrodku, hasło po prawej w trzech wierszach, delikatnie podświetlone HALA C / D20. Hasło jest czytelne od pierwszej klatki i łagodnie się rozjaśnia. Mniejsze odstępy w nagłówku. Cała stopka ma około 265 px wysokości przy szerokości 600 px. Wersja V2 dotyczy tylko Karola.
+Dwa warianty do wyboru: Targi i Produkcja. Oba mają ten sam kompaktowy nagłówek, granatowy blok danych i wyrównane logo D oraz ikony.
 
-`PRESCOT_KAROL_TARGI_V2.html` — gotowy plik do sygnaturki w Thunderbirdzie. Pobieraj go przyciskiem w podglądzie.
+- Targi: baner 600 × 120 px, cała stopka około 265 px wysokości. Stoisko pośrodku, hasło po prawej, delikatnie podświetlone HALA C / D20.
+- Produkcja: baner 600 × 152 px, cała stopka około 297 px wysokości. Pełny proces produkcji z zachowanymi proporcjami maszyn, sześć etapów i końcowa Seria Delux.
+
+Pliki do Thunderbirda: `PRESCOT_KAROL_TARGI_V2.html` i `PRESCOT_KAROL_PRODUKCJA_V2.html`. Pobieraj wybrany wariant przyciskiem w podglądzie. „Kopiuj stopkę” kopiuje podpis z formatowaniem.
+
+V2 dotyczy Karola. W głównym panelu te same warianty są dostępne po wybraniu jego nazwiska.
