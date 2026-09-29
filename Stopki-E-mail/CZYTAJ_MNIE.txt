@@ -1,0 +1,16 @@
+PRESCOT — stopki zespołu, 29.09.2026
+
+Otwórz START.html. Wybierz osobę. Targi są domyślnym wariantem.
+Kopiuj stopkę = formatowana stopka do treści maila.
+Pobierz do Thunderbirda = plik HTML do stałej sygnaturki.
+Kopiuj kod HTML = kod do pola z zaznaczonym Używaj HTML.
+
+Instrukcja: INSTALACJA_THUNDERBIRD.html
+14 osób i skrzynek × 2 warianty = 28 plików HTML.
+6 osób ze zdjęciem. Dwie stopki z danymi s.c.
+Księgowość: Karolina Laskowska ze zdjęciem, Agnieszka Bara bez zdjęcia; obie korzystają z potwierdzonego adresu ksiegowosc@prescot.pl.
+Skrzynka info@prescot.com.pl: Marcin Górniewicz, zgodnie z aktualnym podpisem.
+
+Obrazy są pobierane z publicznych adresów HTTPS na www.prescot.pl.
+Pliki w folderach targi i produkcja są gotowymi podpisami.
+Folder zdjecia zawiera oryginalne portrety; podpisy korzystają z ich wersji na serwerze.
