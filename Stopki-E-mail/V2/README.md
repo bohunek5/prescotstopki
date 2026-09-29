@@ -9,4 +9,4 @@ Dwa warianty do wyboru: Targi i Produkcja. Oba mają ten sam kompaktowy nagłów
 
 Pliki do Thunderbirda: `PRESCOT_KAROL_TARGI_V2.html` i `PRESCOT_KAROL_PRODUKCJA_V2.html`. Pobieraj wybrany wariant przyciskiem w podglądzie. „Kopiuj stopkę” kopiuje podpis z formatowaniem.
 
-V2 dotyczy Karola. W głównym panelu te same warianty są dostępne po wybraniu jego nazwiska.
+Ten osobny podgląd dotyczy Karola. W głównym panelu każdy ma do wyboru te same kompaktowe animacje Targi i Produkcja oraz własne dane kontaktowe.
