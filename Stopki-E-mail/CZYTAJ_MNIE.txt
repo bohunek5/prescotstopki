@@ -1,12 +1,12 @@
 PRESCOT — stopki zespołu, 29.09.2026
 
-Otwórz START.html. Wybierz osobę. Targi są domyślnym wariantem.
+Otwórz START.html. Wybierz osobę. Targi V1 · kremowe są domyślnym wariantem. Dotychczasowe granatowe to Targi V2.
 Kopiuj stopkę = formatowana stopka do treści maila.
 Pobierz do Thunderbirda = plik HTML do stałej sygnaturki.
 Kopiuj kod HTML = kod do pola z zaznaczonym Używaj HTML.
 
 Instrukcja: INSTALACJA_THUNDERBIRD.html
-14 osób i skrzynek × 2 warianty + Produkcja V2 i jasna V3 dla Radosława Narwojsza = 30 plików HTML.
+14 osób i skrzynek × 3 warianty (Targi V1 kremowe, Targi V2 granatowe, Produkcja) + Produkcja V2 i jasna V3 dla Radosława Narwojsza = 44 pliki HTML.
 6 osób ze zdjęciem. Dwie stopki z danymi s.c.
 Księgowość: Karolina Laskowska ze zdjęciem, Agnieszka Bara bez zdjęcia; obie korzystają z potwierdzonego adresu ksiegowosc@prescot.pl.
 Skrzynka info@prescot.com.pl: Marcin Górniewicz, zgodnie z aktualnym podpisem.
