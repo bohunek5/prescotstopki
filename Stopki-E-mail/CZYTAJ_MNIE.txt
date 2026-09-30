@@ -1,11 +1,6 @@
-PRESCOT — stopki zespołu
+PRESCOT — stopki e-mail
 
 Otwórz START.html i wybierz osobę.
-Dla zespołu dostępne są wyłącznie kremowe stopki targowe.
-Karol: kremowa stopka targowa, podgląd na hasło.
-Radosław: cały dotychczasowy komplet (Targi V1 i V2, Produkcja V1, V2 i V3), podgląd na hasło.
-
-Po odblokowaniu: Kopiuj stopkę albo Pobierz do Thunderbirda.
-Pliki zablokowanych i wycofanych wariantów kierują do panelu.
-7 osób ze zdjęciem. Dwie stopki z danymi s.c.
-Obrazy są pobierane z prescot.pl.
+Kopiuj stopkę — skopiuj podpis z formatowaniem.
+Pobierz do Thunderbirda — zapisz plik HTML i wskaż go w ustawieniach sygnaturki.
+Instrukcja: INSTALACJA_THUNDERBIRD.html
