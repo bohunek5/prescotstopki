@@ -18,7 +18,7 @@ Lokalnie otwórz `START.html`. Podpisy są w folderach `targi/` i `produkcja/`.
 | Osoba / skrzynka | Firma | Zdjęcie | Targi | Produkcja |
 |---|---|---|---|---|
 | Karol Bohdanowicz | sp. z o.o. | nie | [HTML](targi/karol-bohdanowicz.html) | [HTML](produkcja/karol-bohdanowicz.html) |
-| Kinga Bohdanowicz | sp. z o.o. | nie | [HTML](targi/kinga-bohdanowicz.html) | [HTML](produkcja/kinga-bohdanowicz.html) |
+| Kinga Bohdanowicz | sp. z o.o. | tak | [HTML](targi/kinga-bohdanowicz.html) | [HTML](produkcja/kinga-bohdanowicz.html) |
 | Krzysztof Bara | sp. z o.o. | nie | [HTML](targi/krzysztof-bara.html) | [HTML](produkcja/krzysztof-bara.html) |
 | Sekretariat | sp. z o.o. | nie | [HTML](targi/sekretariat.html) | [HTML](produkcja/sekretariat.html) |
 | Reklamacje | sp. z o.o. | nie | [HTML](targi/reklamacje.html) | [HTML](produkcja/reklamacje.html) |
