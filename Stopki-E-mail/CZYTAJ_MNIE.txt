@@ -3,5 +3,5 @@ PRESCOT — stopki Produkcja v3
 Otwórz START.html i podaj hasło do panelu. Wybierz osobę.
 Kopiuj stopkę — podpis z formatowaniem do ustawień poczty.
 Pobierz HTML — plik do sygnaturki w Thunderbirdzie.
-Dwie chronione stopki wymagają dodatkowego hasła.
+Stopka Karola wymaga dodatkowego hasła.
 Stare odnośniki prowadzą do aktualnego panelu. Obrazy pobierają się przez internet.
