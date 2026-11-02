@@ -1,6 +1,6 @@
-PRESCOT — stopki Produkcja v3
+PRESCOT — stopki: produkcja 7Y i targi Retail
 
-Otwórz START.html i podaj hasło do panelu. Wybierz osobę.
+Otwórz START.html i podaj hasło do panelu. Wybierz osobę i wariant: Stopka produkcja 7Y albo Stopka targi Retail.
 Kopiuj stopkę — podpis z formatowaniem do ustawień poczty.
 Pobierz HTML — plik do sygnaturki w Thunderbirdzie.
 Stopka Karola wymaga dodatkowego hasła.
